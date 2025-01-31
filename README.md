@@ -1,2 +1,2 @@
 # git-testt
-new doc
+doc
