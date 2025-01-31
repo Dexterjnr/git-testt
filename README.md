@@ -52,9 +52,9 @@ MDN Web Docs - CSS - A valuable guide for CSS properties and layout techniques.
 
 ### Author
 
-GitHub - @Dexterjnr
-Frontend Mentor 
-Twitter - @sjoshuachucks
+- GitHub - @Dexterjnr
+- Frontend Mentor 
+- Twitter - @sjoshuachucks
 
 ### Acknowledgments
 
